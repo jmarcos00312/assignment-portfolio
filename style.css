@@ -184,14 +184,11 @@ display:grid;
   div.item1{
       background-color:#4cc9f0;
   }
-.item2 {
+.item {
     background-image: url(pictures/mountain-night-scenery-stars-landscape-anime-4K-84.jpg);
     background-color: #4cc9f0;
 }
-.item1 {
-    background-image: url(pictures/mountain-night-scenery-stars-landscape-anime-4K-84.jpg);
-    background-color: #4cc9f0;
-}
+
 
 @media all and (min-width: 800px) {
     section {
